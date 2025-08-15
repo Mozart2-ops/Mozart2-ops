@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning `Laravel` 
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about SQL
-- 📫 How to reach me: randrianivolalaina@gmail.com
+- 📫 How to reach me: randrianivolalainaalpha@gmail.com
 - ⚡ Fun fact: Hikaru said : "takes takes takes takes"
 
  ##Language and tools :
